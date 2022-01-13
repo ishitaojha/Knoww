@@ -1,7 +1,9 @@
 <h1> Knoww 🌈💖✨🦋</h1>
-Knoww is an awareness website to make people aware about their rights in the field of STEM and Business industry How to comeback if you face any discrimination, harassment in the workplace.
+Knoww is an awareness website to make people aware about their rights in the field of STEM and Business industry 
 <br>
-<h1> Hosted on replit and we have used: HTML-CSS-JS to make this😊🏆 </h1>
+How to comeback if you face any discrimination, harassment in the workplace.
+<br>
+<h1> Hosted on replit and we have used: HTML-CSS-JS to make this🏆</h1>
 
 ![image](https://user-images.githubusercontent.com/59393136/144759460-a39f66d4-619a-4040-a263-eb53eb11f635.png)
 
