@@ -37,6 +37,11 @@ body {
   color: #6c63ff;
 }
 
+.container .navbar-container .navbar .navbar-logo a {
+  text-decoration: none;
+  color: #6c63ff;
+}
+
 .container .navbar-container .navbar .navbar-items {
   display: -webkit-box;
   display: -ms-flexbox;
