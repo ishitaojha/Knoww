@@ -18,7 +18,7 @@ How to comeback if you face any discrimination, harassment in the workplace.
          STEM Education, at its core, simply means educating students in four specific disciplines, namely, Science, Technology, Engineering, and Mathematics (collectively shortened as STEM). Instead of training students in any one of these domains, STEM combines all four in an interdisciplinary and applied approach, so as to better equip students to have a career and considering real-world applications.
            <br>
 
-![Facts](./assets/faas.png?raw=true "Facts Page")
+![Facts](./assets/facts.png?raw=true "Facts Page")
 
 <br>
 Women and non-binary continue to be underrepresented in science, technology, engineering, and math (STEM). Gender discrimination and gender bias reinforce cultural stereotypes about women and their ability to perform in male-dominated STEM fields. Greater policy intervention can bolster national response to gender-based harassment and discrimination. There are four major efforts that individual institutions, local governments, and the federal government can support to combat gender discrimination in STEM:
