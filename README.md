@@ -28,7 +28,7 @@ Women and non-binary continue to be underrepresented in science, technology, eng
 <br> (3) foster workplace practices that promote diversity, and
 <br>(4) develop better quantification and metrics for assessing gender discrimination to enact more meaningful policies.
 
-![image](https://user-images.githubusercontent.com/59393136/144759619-ca1c7fa3-4bca-4197-ae36-aa3fecc80107.png)
+<!-- ![image](https://user-images.githubusercontent.com/59393136/144759619-ca1c7fa3-4bca-4197-ae36-aa3fecc80107.png) -->
 
 <h2>
     Gender issue in Education for Science and Technology
