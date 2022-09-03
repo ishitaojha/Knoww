@@ -5,6 +5,89 @@
     padding: 0
 
 body
-    background: rgba(229, 186, 233, 0.829)
+    background: #0d1117
     font-family: 'Poppins', sans-serif
     color: #fff
+
+.container
+    width: 70vw
+    margin: 0 auto
+    .navbar-container
+        padding: 1rem 0
+        .navbar
+            display: flex
+            align-items: center
+            justify-content: space-between
+            .navbar-logo
+                font-size: 2rem
+                font-weight: 900
+                color: #6c63ff
+            .navbar-items
+                display: flex
+                align-items: center
+                gap: 4rem
+                .navbar-item
+                    a
+                        text-decoration: none
+                        color: #fff
+                        font-size: 1.2rem
+                        font-weight: 600
+                .navbar-item-btn
+                    a
+                        text-decoration: none
+                        color: #6c63ff
+                        // background: rgb(97, 0, 105)
+                        padding: 0.5rem 1.5rem
+                        border-radius: 5px
+                        border: 2px solid #6c63ff
+                        font-size: 1.2rem
+                        font-weight: 600
+                        transition: all 0.3s ease-in-out
+                        &:hover
+                            background: #6c63ff
+                            color: #fff
+
+    .info-container
+        padding: 6rem 0
+        .info
+            display: flex
+            align-items: center
+            justify-content: space-between
+            .info-left-container
+                width: 40%
+                .info-left
+                    .light-title
+                        .title-logo
+                            color: #6c63ff
+                            font-size: 1rem
+                        .title-logo-rest
+                            font-size: 1rem
+                            color: #6b63ff60
+                    .title
+                        font-size: 3rem
+                        font-weight: 700
+                        .title-women
+                            color: #6c63ff
+                    .title-btn
+                        display: flex
+                        align-items: center
+                        gap: 0.5rem
+                        padding: 0.5rem 2rem
+                        background: #6c63ff
+                        width: fit-content
+                        border-radius: 5px
+                        margin-top: 2rem
+                        cursor: pointer
+                        .title-btn-text
+                            // color: #fff
+                            font-size: 1.2rem
+                            font-weight: 600
+                        svg
+                            transform: rotate(180deg)
+                        // justify-content: center
+            .info-right-container
+                height: 500px
+                width: 70%
+                background: url('../assets/title.png')
+                background-size: cover
+                background-position: center
