@@ -127,3 +127,35 @@ body
                 text-decoration: none
                 .a-text
                     color: #6c63ff
+
+    .tip-container
+        display: flex
+        justify-content: center
+        .tip
+            padding: 0.5rem 2rem
+            border: 1px solid #6c63ff
+            border-radius: 50px
+            color: #6c63ff
+
+
+@media screen and (max-width: 768px)
+    .container
+        width: 94vw
+        .navbar-container
+            .navbar
+                .navbar-items
+                    gap: 2rem
+
+        .info-container
+            padding: 4rem 0
+            .info
+                flex-direction: column-reverse
+                gap: 2rem
+                .info-left-container
+                    width: 100%
+                    .info-left
+                        .title
+                            font-size: 2rem
+                .info-right-container
+                    height: 250px
+                    width: 100%
