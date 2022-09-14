@@ -1,4 +1,4 @@
-# Knoww 🌈💖✨🦋
+# Knoww 
 
 Knoww is an awareness website to make people aware about their rights in the field of STEM and Business industry
 
