@@ -1,0 +1,274 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #0d1117;
+  font-family: 'Poppins', sans-serif;
+  color: #fff;
+}
+
+.container {
+  width: 70vw;
+  margin: 0 auto;
+}
+
+.container .navbar-container {
+  padding: 1rem 0;
+}
+
+.container .navbar-container .navbar {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.container .navbar-container .navbar .navbar-logo {
+  font-size: 2rem;
+  font-weight: 900;
+  color: #6c63ff;
+}
+
+.container .navbar-container .navbar .navbar-logo a {
+  text-decoration: none;
+  color: #6c63ff;
+}
+
+.container .navbar-container .navbar .navbar-items {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  gap: 4rem;
+}
+
+.container .navbar-container .navbar .navbar-items .navbar-item a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.container .navbar-container .navbar .navbar-items .navbar-item-btn a {
+  text-decoration: none;
+  color: #6c63ff;
+  padding: 0.5rem 1.5rem;
+  border-radius: 5px;
+  border: 2px solid #6c63ff;
+  font-size: 1.2rem;
+  font-weight: 600;
+  -webkit-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+}
+
+.container .navbar-container .navbar .navbar-items .navbar-item-btn a:hover {
+  background: #6c63ff;
+  color: #fff;
+}
+
+.container .info-container {
+  padding: 8rem 0;
+}
+
+.container .info-container .info {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.container .info-container .info .info-left-container {
+  width: 40%;
+}
+
+.container .info-container .info .info-left-container .info-left .light-title .title-logo {
+  color: #6c63ff;
+  font-size: 1rem;
+}
+
+.container .info-container .info .info-left-container .info-left .light-title .title-logo-rest {
+  font-size: 1rem;
+  color: #6b63ff60;
+}
+
+.container .info-container .info .info-left-container .info-left .title {
+  font-size: 3rem;
+  font-weight: 700;
+}
+
+.container .info-container .info .info-left-container .info-left .title .title-women {
+  color: #6c63ff;
+}
+
+.container .info-container .info .info-left-container .info-left .title-btn {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 2rem;
+  background: #6c63ff;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  border-radius: 5px;
+  margin-top: 2rem;
+  cursor: pointer;
+}
+
+.container .info-container .info .info-left-container .info-left .title-btn .title-btn-text {
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.container .info-container .info .info-left-container .info-left .title-btn svg {
+  -webkit-transform: rotate(180deg);
+          transform: rotate(180deg);
+}
+
+.container .info-container .info .info-right-container {
+  height: 500px;
+  width: 70%;
+  background: url("../assets/title.png");
+  background-size: cover;
+  background-position: center;
+}
+
+.container .content {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  gap: 2rem;
+  padding: 1rem 0 4rem 0;
+}
+
+.container .content .question {
+  border-left: 2px solid #6c63ff;
+  padding: 0.5rem 1rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  color: #6c63ff;
+}
+
+.container .content .answer {
+  font-size: 1.2rem;
+}
+
+.container .footer-container {
+  padding: 1rem 0;
+}
+
+.container .footer-container .footer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.container .footer-container .footer .footer-text {
+  color: #6c63ff;
+}
+
+.container .footer-container .footer a {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  gap: 0.2rem;
+  text-decoration: none;
+}
+
+.container .footer-container .footer a .a-text {
+  color: #6c63ff;
+}
+
+.container .tip-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.container .tip-container .tip {
+  padding: 0.5rem 2rem;
+  border: 1px solid #6c63ff;
+  border-radius: 50px;
+  color: #6c63ff;
+}
+
+@media screen and (max-width: 1076px) {
+  .container .info-container .info {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: reverse;
+        -ms-flex-direction: column-reverse;
+            flex-direction: column-reverse;
+    gap: 4rem;
+  }
+  .container .info-container .info .info-left-container {
+    width: 100%;
+  }
+  .container .info-container .info .info-right-container {
+    width: 100%;
+    height: 400px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .container {
+    width: 94vw;
+  }
+  .container .navbar-container .navbar .navbar-items {
+    gap: 2rem;
+  }
+  .container .info-container {
+    padding: 4rem 0;
+  }
+  .container .info-container .info {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: reverse;
+        -ms-flex-direction: column-reverse;
+            flex-direction: column-reverse;
+    gap: 2rem;
+  }
+  .container .info-container .info .info-left-container {
+    width: 100%;
+  }
+  .container .info-container .info .info-left-container .info-left .title {
+    font-size: 2rem;
+  }
+  .container .info-container .info .info-right-container {
+    height: 250px;
+    width: 100%;
+  }
+}
+/*# sourceMappingURL=home.css.map */
