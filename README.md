@@ -30,5 +30,4 @@ Women and non-binary continue to be underrepresented in science, technology, eng
 Girls and women remain substantially under-represented in mathematics, science, and technology in school and in the workplace. Although this problem is recognized, its complexity is widely underestimated and causes are not well understood. We review prevailing explanations, which tend to concentrate either on possible gender differentials in qualities such as self-confidence, or on school practices that allow boys to dominate classroom interaction and monopolize such technology as computers.
 
 ## Author
-
 [ishitaojha](https://github.com/ishitaojha)
